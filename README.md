@@ -1,26 +1,26 @@
 # Hi there, I'm Sourabh Yadav 👋 🤖
 
-**AI Engineer @ Kreesalis** | Building Enterprise-Grade Multi-Agent Systems, GenAI Platforms & AI Security.
+**AI Engineer @ Kreesalis** | Graph Engineering, Agent Harnesses & Multi-Agent Systems | PyTorch, LangGraph & MCP.
 
 ---
 
 ### 🚀 What I Do
-- 🧠 **Agentic AI & Multi-Agent Orchestration:** Architecting RAG systems & agentic workflows using **LangGraph**, **LangChain**, and **Model Context Protocol (MCP)**.
-- 🛡️ **AI Security & Biometrics:** Engineered behavioral biometric ML engines (keystroke dynamics with 97% accuracy under sub-100ms latency) and real-time policy engines.
-- ⚡ **Deep Learning & GenAI:** Fine-tuning LLMs, Transformers (ViT, RoPE, MoE), Diffusion models, and CUDA/TensorRT inferencing.
-- ⚙️ **MLOps & Enterprise Infrastructure:** Scalable deployment with Kubernetes (AKS), Istio, Docker, FastAPI, and OpenTelemetry.
+- 🧠 **Agentic AI & Graph Engineering:** Designing multi-agent state graphs, cyclic agentic loops, and **LangGraph** workflows using **Model Context Protocol (MCP)** & **Agent2Agent (A2A)** protocols.
+- ⚙️ **Harness & Loop Engineering:** Building evaluation harnesses, agentic coding tools (**Claude Code, Codex, Pi Agent**), and sandboxed execution environments for autonomous agent loops.
+- 🛡️ **AI Security & Biometrics:** Engineered behavioral biometric ML engines (44D keystroke dynamics with 97% accuracy under sub-100ms latency) and real-time policy engines.
+- ⚡ **LLM Fine-Tuning & Reasoning:** Working with **Hermes**, reasoning LLMs, Transformers (MoE, RoPE, ViT), and CUDA/TensorRT acceleration.
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+### 🛠️ Tech Stack & Trending Capabilities
 
-| Area | Tools & Technologies |
+| Area | Technologies & Concepts |
 | :--- | :--- |
-| **Core ML & DL** | PyTorch, TensorFlow, JAX, PINNs, OpenCV |
-| **LLMs & GenAI** | Multi-Agent RAG, LangChain, LangGraph, MCP, A2A, LoRA/PEFT, Transformers |
-| **Agentic Tools** | Claude Code, Codex, Pi Agent, Custom Tooling & Harness Engineering |
-| **Systems & Databases** | Python, C++, PostgreSQL, MongoDB, Neo4j, ChromaDB, FAISS |
-| **Cloud & MLOps** | Azure, AWS, Docker, Kubernetes, Istio, MLflow, TensorRT, CUDA |
+| **Agentic AI Architecture** | **Graph Engineering**, **Harness Engineering**, **Loop Engineering**, LangGraph, MCP, A2A |
+| **LLMs & Models** | **Hermes**, Reasoning LLMs, Multi-Agent RAG, LoRA/PEFT, Transformers (MoE, RoPE) |
+| **Agentic Coding & Tooling**| Claude Code, Codex, Pi Agent, Sandboxed Policy-as-Code |
+| **Core ML & Systems** | PyTorch, JAX, PINNs, CUDA, TensorRT, FastAPI |
+| **Cloud & MLOps** | Azure (AKS), AWS, Docker, Istio, OpenTelemetry, MLflow |
 
 ---
 
